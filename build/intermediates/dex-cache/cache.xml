@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_36d38b0acffff53decd945a4176f10257026b8d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_94191f17d5de4865ff3b31720971f7ef15ab5b48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_17e5363dc198ee00dd828999e62ce9e119725671\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_d2b59cc46e894ef588bd95ae6da862506e14c898\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_bca030641790729ea07a505fc17d033aa1a3ede6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_23070b97845b7839257b55e384f440e63d1f603e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0241fed0be36940f48c9861ba1f3d8ea844035cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8552ec462be2738b09ebfa9aec91dac450410fc8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_4ce4f33ddaf67d794b55ce77305dfb3628aabf1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_e831bea9022dadb20ab778045f59a12ab5f77253\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e80f685b9a001a905a69492907104e46ead1caff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_97be56b60b01c771ba9ed148f1c15c343fd634de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85be5eb2c918ab7412b3c9f7bd0b72306a4c7cc0">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d7461b5bd728a9bd951625b73003c8900eb3b279\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_2ec2e7d8417eb99a455353354a5535fbca3a28fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_da5714e2d7037ce6e952047d7a3b2d21ee57f9bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_627af5153e1fa751ce08713926740cbbdaf2e0d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9c05f2bd6b5ef0ea419f275d965dbf9eaa4c9ee9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1852f03a84c5e204278a66c0e6b33001cdfefa93">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dd75e10347d06dfe011b2157b878c72ff51f7f40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Aditya\AndroidStudioProjects\AudrinoBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a557670c3b2668dc9a72cb7acfd684bbbd38d3dc\classes.dex" />
+    </item>
+
+</items>
